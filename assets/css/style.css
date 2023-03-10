@@ -341,6 +341,9 @@ main {
   text-align: right;
 }
 
+#silvana {
+  filter: drop-shadow(3px 3px 3px rgba(0, 0, 0, 0.452));
+}
 
 .reserv {
   border-radius: 5px;
@@ -519,6 +522,10 @@ main {
   height: 0.5px;
   width: 80%;
   margin: auto;
+}
+
+footer a {
+  margin: 0px 10px 0px 10px;
 }
 
 /* Media Queries, A22= width: 363px */
